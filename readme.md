@@ -52,7 +52,7 @@ Welcome to your **Personal Growth AI Companion** — a confidential and calming 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/ai-companion.git
+   git clone https://github.com/Jeevankumar507/Voice-Enabled-AI-Companion.git
    cd ai-companion
    ```
 
@@ -89,12 +89,6 @@ Welcome to your **Personal Growth AI Companion** — a confidential and calming 
 ├── README.md            # You're here!
 └── requirements.txt     # Python dependencies
 ```
-
----
-
-### 📄 License
-
-This project is for **educational and personal use only**. Attribution appreciated. Not for commercial deployment without consent.
 
 ---
 
